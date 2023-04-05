@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLOSQZv7nus7qMJ5ZkMQzpi1h6IUbslouLvZSZ2nJKP28eun9fTP6LWWoVcZgTFiFyev6+Z7yLEE0zP8g1001g==",
+  "success": true,
+  "projectFilePath": "/Users/kope/TestProjects/DeletAble/AnguCoreTest/Weather_API/Weather_API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nandarsoe/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/nandarsoe/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/nandarsoe/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/nandarsoe/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/nandarsoe/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/nandarsoe/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/nandarsoe/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
